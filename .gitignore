@@ -1,0 +1,11 @@
+# Local IDE / agent configs
+.trae/
+
+# Design notes (not for open source)
+structure.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
