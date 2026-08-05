@@ -71,6 +71,25 @@ To prevent late-game ball-count growth from overflowing the object pool (`acquir
 
 ---
 
+## 📸 Gallery
+
+Click any screenshot to view full size.
+
+<table>
+  <tr>
+    <td align="center"><a href="screenshots/gameplay-01.png"><img src="screenshots/gameplay-01.png" width="220"></a></td>
+    <td align="center"><a href="screenshots/gameplay-02.png"><img src="screenshots/gameplay-02.png" width="220"></a></td>
+    <td align="center"><a href="screenshots/gameplay-03.png"><img src="screenshots/gameplay-03.png" width="220"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/gameplay-04.png"><img src="screenshots/gameplay-04.png" width="220"></a></td>
+    <td align="center"><a href="screenshots/gameplay-05.png"><img src="screenshots/gameplay-05.png" width="220"></a></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Run
 
 No build required. Pick one:

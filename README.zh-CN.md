@@ -71,6 +71,25 @@ Salvo 是一款类 🎮 BBTAN 风格的物理弹球消砖游戏，使用 **原�
 
 ---
 
+## 📸 游戏截图
+
+点击任一截图可查看原图。
+
+<table>
+  <tr>
+    <td align="center"><a href="screenshots/gameplay-01.png"><img src="screenshots/gameplay-01.png" width="220"></a></td>
+    <td align="center"><a href="screenshots/gameplay-02.png"><img src="screenshots/gameplay-02.png" width="220"></a></td>
+    <td align="center"><a href="screenshots/gameplay-03.png"><img src="screenshots/gameplay-03.png" width="220"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/gameplay-04.png"><img src="screenshots/gameplay-04.png" width="220"></a></td>
+    <td align="center"><a href="screenshots/gameplay-05.png"><img src="screenshots/gameplay-05.png" width="220"></a></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 运行
 
 无需构建。任选其一：
